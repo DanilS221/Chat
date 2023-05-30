@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864948866024",
+    "project_id": "tailor-47803",
+    "storage_bucket": "tailor-47803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864948866024:android:e4e4959eb85867d937b25d",
+        "android_client_info": {
+          "package_name": "com.example.tailorqvest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864948866024-ftk3paec912vcptrv3mgu7ojn2gcr075.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NGOQ3uRg0zo_4BkrPUO0xmHqp8fhww8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864948866024-ftk3paec912vcptrv3mgu7ojn2gcr075.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
